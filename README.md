@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GNWekesa
 - 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
+- 🌱 I’m currently learning MySQL,HTML, CSS, JavaScript, and Python
 - 💞️ I’m looking to collaborate on any Python related projects
 - 📫 How to reach me whatsapp via +254115331948
 - 😄 Pronouns: none, am a woman and that's it
